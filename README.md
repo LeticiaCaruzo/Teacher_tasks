@@ -37,4 +37,4 @@ https://teacher-tasks.vercel.app/
 Clone o projeto:
 
 ```bash
-git clone https://github.com/seu-repositorio
+git clone https://github.com/LeticiaCaruzo/Teacher_tasks/tree/main

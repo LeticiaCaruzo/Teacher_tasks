@@ -1,3 +1,5 @@
+# TeacherTask
+
 TeacherTask é uma plataforma web desenvolvida para auxiliar professores do ensino público na criação, organização e compartilhamento de atividades pedagógicas.
 
 Este projeto foi desenvolvido como MVP para o Hackathon da Pós-graduação em Desenvolvimento Full Stack da FIAP.
@@ -37,4 +39,4 @@ https://teacher-tasks.vercel.app/
 Clone o projeto:
 
 ```bash
-git clone https://github.com/LeticiaCaruzo/Teacher_tasks/tree/main
+git clone https://github.com/seu-repositorio
